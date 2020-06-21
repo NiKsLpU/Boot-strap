@@ -52,3 +52,21 @@ body {
   position: absolute;
   bottom: 0px;
   z-index: 1; }
+
+#loginhead {
+  background: #512DA8;
+  color: floralwhite; }
+  #loginhead #close {
+    color: floralwhite; }
+
+#loginbody {
+  background: #D1C4E9; }
+
+#reservehead {
+  background: #512DA8;
+  color: floralwhite; }
+  #reservehead #closetable {
+    color: floralwhite; }
+
+#reservebody {
+  background: #D1C4E9; }

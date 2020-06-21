@@ -74,3 +74,33 @@ body{
     bottom: 0px;
     z-index: 1;
 }
+
+#loginhead
+{
+    background:$background-dark;
+    color:floralwhite;
+    #close
+    {
+        color:floralwhite;
+    }
+}
+
+#loginbody
+{
+    background:$background-pale;
+}
+
+#reservehead
+{
+    background:$background-dark;
+    color:floralwhite;
+    #closetable
+    {
+        color:floralwhite;
+    }
+}
+
+#reservebody
+{
+    background:$background-pale;
+}
